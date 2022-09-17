@@ -1,4 +1,4 @@
-# 7SegmentMultiplex
+# 7SegmentMultiplexing
 Demonstration of segment multiplexing for a 7-segment display with an Arduino Uno/Nano.
 
 This technic could be used to use a 7-segment display with a common anode or cathode (for example 4041AH)
