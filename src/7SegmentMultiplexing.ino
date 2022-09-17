@@ -18,7 +18,7 @@
  * License: CC0
  * Copyright (c) 2022 codingABI
  * 
- * created by codingABI https://github.com/codingABI/7SegmentMultiplex
+ * created by codingABI https://github.com/codingABI/7SegmentMultiplexing
  * 
  * History:
  * 17.09.2022, Initial version
