@@ -1,7 +1,7 @@
 # 7SegmentMultiplexing
 Demonstration of segment multiplexing for a 7-segment display with an Arduino Uno/Nano.
 
-This technic could be used to drive a 7-segment display with a common anode or cathode (for example 4041AH)
+This technic could be used to drive a 7-segment display with a common anode or cathode (for example 4041AH):
 - directly by an Arduino Uno/Nano and
 - without a special display controller and 
 - without too much current on microcontroller I/O-pins 
