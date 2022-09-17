@@ -1,11 +1,11 @@
 # 7SegmentMultiplex
 Demonstration of segment multiplexing for a 7-segment display with an Arduino Uno/Nano.
 
-This technic could be used to use a 7-segment display with a common anode or cathode (for example CL4041AH)
+This technic could be used to use a 7-segment display with a common anode or cathode (for example 4041AH)
 - directly by an Arduino Uno/Nano and
 - without a special display controller and 
 - without too much current on microcontroller I/O-pins 
-   (Max. 40mA per I/O-pin would be allowed for an ATMega328 and 200mA for all I/O-pins in sum.
+   (Max. 40mA per I/O-pin would be allowed for an ATmega328P and 200mA for all I/O-pins in sum.
    We will use only ~11mA per I/O-pin and in sum 11mA*"Number of digits" due segment muliplexing, for example 44mA for a 4 digit display)
 - with only one current limiting resistors per digit and
 - without bightness flickering depending on how many segments of digit are used
