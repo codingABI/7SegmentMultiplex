@@ -40,6 +40,7 @@ Type: Common cathode
 | --- | --- | --- | --- | --- | --- | --- |
 | Usage | E | D | DP | C | G | DIG4 |
 
+
 DIG1 = Common cathode for digit on left side
 ...
 DIG4 = Common cathode for digit on right side
