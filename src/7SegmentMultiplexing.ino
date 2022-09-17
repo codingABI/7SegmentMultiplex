@@ -61,7 +61,7 @@ void SeventSegmentDisplayInit() {
   }
 }
 
-// Refresh display (= Show next segment of 7-segment-display)
+// Refresh display (= Show next segment of the 7-segment display)
 void SeventSegmentRefesh() {
   static byte segment = 0;
 
