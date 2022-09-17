@@ -42,3 +42,6 @@ Type: Common cathode
 
 ## Schema
 ![schema](/assets/images/schema.png)
+
+## Breadboard
+![Breadboard](/assets/images/Breadboard.jpg) 
