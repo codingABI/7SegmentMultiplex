@@ -40,9 +40,9 @@ Type: Common cathode
 | --- | --- | --- | --- | --- | --- | --- |
 | Usage | E | D | DP | C | G | DIG4 |
 
-DIG1 = digit on left side
+DIG1 = Common cathode for digit on left side
 ...
-DIG4 = digit on right side
+DIG4 = Common cathode for digit on right side
 
 ## Schema
 ![schema](/assets/images/schema.png)
