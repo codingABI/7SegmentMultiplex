@@ -1,8 +1,8 @@
 /*
  * Project: 7SegmentMultiplex
- * Description: Demonstration of segment multiplexing for a 7-segment display
+ * Description: Demonstration of segment multiplexing for a 7-segment display with an Arduino Uno/Nano
  *
- * This technic could be used to use a 7-segment display with a common anode or cathode (for example CL4041AH)
+ * This technic could be used to use a 7-segment display with a common anode or cathode (for example 4041AH)
  * - directly by an Arduino Uno/Nano and
  * - without a special display controller and 
  * - without too much current on microcontroller I/O-pins 
@@ -42,7 +42,7 @@
 #define SEG_MAXDIGITS 4
 #define SEG_MAXSEGMENTS 8
 
-// Rotary encoder pins ()
+// Rotary encoder pins
 #define ENCODER_CLK_PIN A0
 #define ENCODER_DT_PIN  A1
 
