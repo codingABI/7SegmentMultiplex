@@ -1,6 +1,12 @@
 # 7SegmentMultiplexing
 Demonstration of segment multiplexing for a 7-segment display with an Arduino Uno/Nano.
 
+Principle:
+- Only one segment per time is enabled
+- All digits uses the same segment
+- Every digit, where the current segment should be shown, is enabled 
+- On every display update the next segment will be enabled
+
 This technic could be used to drive a 7-segment display with a common anode or cathode (for example 4041AH):
 - directly by an Arduino Uno/Nano and
 - without a special display controller and 
