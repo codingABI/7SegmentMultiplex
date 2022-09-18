@@ -3,7 +3,7 @@ Demonstration of segment multiplexing for a 7-segment display with an Arduino Un
 
 Principle:
 - Only one segment per time is enabled
-- All digits uses the same segment
+- All digits uses the same segment per time
 - Every digit, where the current segment should be shown, is enabled 
 - On every display update the next segment will be enabled
 
