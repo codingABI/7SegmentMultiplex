@@ -18,7 +18,7 @@ Disadvantages:
 
 Simulation https://wokwi.com/projects/342698937471205971
 
-Video https://www.youtube.com/watch?
+Video https://youtu.be/b8dgzbctinw
 
 ## Used 7-segment display
 Model: 4041AH
