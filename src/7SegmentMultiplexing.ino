@@ -12,7 +12,7 @@
  * - without bightness flickering depending on how many segments of digit are used
  *
  * Disadvantages:
- * - We use use only 1/8 of the maximum possible bightness of the display
+ * - We use use only 1/8 of the maximum possible brightness of the display
  * - We have to update the display every ~2ms to avoid flickering (for example by timer2)
  *
  * License: CC0
